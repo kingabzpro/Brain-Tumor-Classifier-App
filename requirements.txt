@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+tensorflow==2.11
+pillow
+numpy
+pandas
